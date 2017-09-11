@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "buffer": "^5.0.7",
     "express": "^4.15.4",
+    "json": "^9.0.6",
     "lodash": "^4.17.4",
     "net": "^1.0.2",
     "openbci-ganglion": "^0.4.3",
