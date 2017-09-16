@@ -11,10 +11,12 @@
   "dependencies": {
     "buffer": "^5.0.7",
     "express": "^4.15.4",
+    "file-system": "^2.2.2",
     "json": "^9.0.6",
     "lodash": "^4.17.4",
     "net": "^1.0.2",
     "openbci-ganglion": "^0.4.3",
+    "prompt": "^1.0.0",
     "raw-socket": "^1.5.1",
     "socket.io": "^2.0.3"
   }
